@@ -1,0 +1,8 @@
+node_modules/
+dist/
+
+project/Packages/
+project/PackageSources/mapsample.js
+project/_PackageInt/
+
+package-lock.json

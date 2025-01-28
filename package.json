@@ -1,0 +1,17 @@
+{
+  "name": "mapsample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup --config"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@microsoft/msfs-sdk": "^2.0.5",
+    "@rollup/plugin-node-resolve": "^16.0.0",
+    "rollup": "^4.32.1"
+  }
+}
